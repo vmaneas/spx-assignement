@@ -2,7 +2,7 @@
 
 ## `Import in Postman`
 
-You have to import the file in Postman as a .JSON file. The tests are located under the Tests tab.
+You have to import SpaceX.postman_collection.json in Postman. The tests are located under the Tests tab.
 
 ### `Run Tests`
 
